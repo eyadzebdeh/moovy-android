@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Moovy</string>
+    <string name="load_genres_failure">Failed to load genres</string>
+</resources>
